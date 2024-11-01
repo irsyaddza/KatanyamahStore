@@ -156,6 +156,18 @@ footer {
   transition: all 0.3s ease;
 }
 
+.sr-showroom{
+  color: #f5c000 !important;
+}
+
+.pricing-pr{
+  color: #f5c000 !important;
+}
+
+.home-hm{
+  color: #f5c000 !important;
+}
+
 .nav-links a:hover {
   color: #f5c000;
   transition: all 0.3 ease-in-out;
